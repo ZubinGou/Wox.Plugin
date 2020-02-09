@@ -1,0 +1,12 @@
+{
+  "ID":"412C6D48B954441DA3A578290D52B21F",
+  "ActionKeyword":"ms",
+  "Name":"MovieSearch",
+  "Description":"Search IMDB for movies, TV series etc.",
+  "Author":"ZubinGou",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://github.com/ZubinGou/Wox.Plugin.MovieSearch",
+  "IcoPath": "Images\\movie.png",
+  "ExecuteFileName":"main.py"
+}
